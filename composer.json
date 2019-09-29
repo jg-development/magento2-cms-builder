@@ -28,5 +28,13 @@
     "psr-4": {
       "MGS\\Fbuilder\\": ""
     }
+  },
+  "extra": {
+    "map": [
+      [
+        "pub/media/mgs/fbuilder/*",
+        "pub/media/mgs/fbuilder/"
+      ]
+    ]
   }
 }
